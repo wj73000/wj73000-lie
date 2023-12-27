@@ -1,5 +1,6 @@
-altair
-numpy
-pandas
-pydeck
-streamlit
+streamlit==1.29.0
+numpy<=1.25.1
+pandas>2.0
+sqlite3
+requests
+whois
